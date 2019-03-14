@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Supreme T-Shirt",
+        "brand": "Supreme",
+        "price": 99.99,
+        "reviews": [
+            {
+                "author": "Juli",
+                "review": "Good product!"
+            },
+            {
+                "author": "Serge",
+                "review": "The best one!"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "NoName T-Shirt",
+        "brand": "NoName",
+        "price": 9.99,
+        "reviews": [
+            {
+                "author": "Ivan",
+                "review": "Sucks!"
+            },
+            {
+                "author": "Iona",
+                "review": "Shit happens!"
+            }
+        ]
+    }
+]
