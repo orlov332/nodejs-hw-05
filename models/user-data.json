@@ -1,12 +1,16 @@
 [
     {
+        "id": "da776310-8655-408a-b579-085790d54fa7",
         "name": "Ivan",
         "login": "ivan@example.com",
-        "password": "123qwe"
+        "password": "123qwe",
+        "token": "78CF47BEDE2AC9A77BAF52A5C6925"
     },
     {
+        "id": "4714ca17-9c10-4f70-a99a-6f77b9374a73",
         "name": "John",
         "login": "john@example.com",
-        "password": "123qwe"
+        "password": "123qwe",
+        "token": "73EDDB1E5CF9D2F33E5ECDCFA417A"
     }
 ]
